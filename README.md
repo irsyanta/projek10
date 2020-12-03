@@ -7,7 +7,7 @@
 LAB 6
 ---------------------------------------------------
 
-![ubey](foto/ubey.png.png)
+![san](foto/san.png)
 
 Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
@@ -142,11 +142,11 @@ print("Keluar")
 
 Terakhir kita akan mencetak hasil dari program yang telah dibuat
 
-![san](foto/san.png.png)
+![ubey](foto/ubey.png)
 
 Hasil Flowchart seperti berikut ini :
 
-![til](foto/til.png.png)
+![til](foto/til.png)
 
 ## terima kasih
 
